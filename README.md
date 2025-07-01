@@ -11,3 +11,7 @@ This project showcases the essential fundamentals of the Python programming lang
 Goal: To apply core Python concepts in real-world scenarios, reinforcing logic and building a solid foundation in data handling.
 
 Note: Language - Portugues
+This project is part of a Data Science bootcamp with Tripleten.
+The structure and instructions were provided as part of the learning curriculum.
+I completed the project independently and added my own analysis and comments where possible.
+I’m continuing to learn and plan to apply these skills to original projects soon.
